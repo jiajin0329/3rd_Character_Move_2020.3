@@ -1,0 +1,961 @@
+Using pre-set license
+Built from '2020.3/staging' branch; Version is '2020.3.8f1 (507919d4fff5) revision 5273881'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Home; OS build 19042.1466; Version 2009; 64bit' Language: 'zh' Physical Memory: 16279 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+D:\MyFloder\GameMaker\Unity\2020.3.8f1\Unity\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+C:/Unity/Project/3rd_Character_Move_2020.3
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+64803
+Successfully changed project path to: C:/Unity/Project/3rd_Character_Move_2020.3
+C:/Unity/Project/3rd_Character_Move_2020.3
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 98.12 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.3.8f1 (507919d4fff5)
+[Subsystems] Discovering subsystems at path D:/MyFloder/GameMaker/Unity/2020.3.8f1/Unity/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Unity/Project/3rd_Character_Move_2020.3/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce GTX 965M (ID=0x1427)
+    Vendor:   
+    VRAM:     4055 MB
+    Driver:   30.0.15.1123
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Initialize mono
+Mono path[0] = 'D:/MyFloder/GameMaker/Unity/2020.3.8f1/Unity/Editor/Data/Managed'
+Mono path[1] = 'D:/MyFloder/GameMaker/Unity/2020.3.8f1/Unity/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'D:/MyFloder/GameMaker/Unity/2020.3.8f1/Unity/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56648
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: D:/MyFloder/GameMaker/Unity/2020.3.8f1/Unity/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: D:/MyFloder/GameMaker/Unity/2020.3.8f1/Unity/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.002113 seconds.
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 80.96 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.280 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.003180 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 91.69 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.573 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.12 seconds
+Refreshing native plugins compatible for Editor in 1.35 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3028 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 151.9 MB.
+System memory in use after: 151.8 MB.
+
+Unloading 107 unused Assets to reduce memory usage. Loaded Objects now: 3469.
+Total: 5.335700 ms (FindLiveObjects: 0.477900 ms CreateObjectMapping: 0.284200 ms MarkObjects: 4.087500 ms  DeleteObjects: 0.484200 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/MyAssets/Scripts/3rd_Character_Move/Global Volume Profile.asset
+  artifactKey: Guid(17259d1c7a372ad4c90ee9853892f7d9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MyAssets/Scripts/3rd_Character_Move/Global Volume Profile.asset using Guid(17259d1c7a372ad4c90ee9853892f7d9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5d2e749b4bd8029332b99e7dd8a20da3') in 0.139212 seconds
+  Import took 0.147340 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 171.555451 seconds.
+  path: Assets/MyAssets/Scripts/3rd_Character_Move/3rd_Character_Move.unity
+  artifactKey: Guid(02a2a23523ccc0641af4e83c9d8c36f3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MyAssets/Scripts/3rd_Character_Move/3rd_Character_Move.unity using Guid(02a2a23523ccc0641af4e83c9d8c36f3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '79e571ed3fed6322a7d02454742ba3f3') in 0.040782 seconds
+  Import took 0.050484 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.035514 seconds.
+  path: Assets/MyAssets/Scripts/3rd_Character_Move/New Lighting Settings.lighting
+  artifactKey: Guid(b252d4621dd78db4f9fb9a56e0be26f2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MyAssets/Scripts/3rd_Character_Move/New Lighting Settings.lighting using Guid(b252d4621dd78db4f9fb9a56e0be26f2) Importer(815301076,1909f56bfc062723c751e8b465ee728b) LightingSettings: switching bake backend from 1 to 2.
+ -> (artifact id: '57b04582dac79b2eef2e68a9cebb2266') in 0.035057 seconds
+  Import took 0.041778 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.005121 seconds.
+  path: Assets/MyAssets/Scripts/3rd_Character_Move/New Lighting Settings.lighting
+  artifactKey: Guid(b252d4621dd78db4f9fb9a56e0be26f2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MyAssets/Scripts/3rd_Character_Move/New Lighting Settings.lighting using Guid(b252d4621dd78db4f9fb9a56e0be26f2) Importer(815301076,1909f56bfc062723c751e8b465ee728b) LightingSettings: switching bake backend from 1 to 2.
+ -> (artifact id: '57b04582dac79b2eef2e68a9cebb2266') in 0.035182 seconds
+  Import took 0.041667 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 15.991785 seconds.
+  path: Assets/MyAssets/Scripts/3rd_Character_Move/New Lighting Settings.lighting
+  artifactKey: Guid(b252d4621dd78db4f9fb9a56e0be26f2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MyAssets/Scripts/3rd_Character_Move/New Lighting Settings.lighting using Guid(b252d4621dd78db4f9fb9a56e0be26f2) Importer(815301076,1909f56bfc062723c751e8b465ee728b) LightingSettings: switching bake backend from 1 to 2.
+ -> (artifact id: '0437e90c94864939aeda015ad17080a3') in 0.031515 seconds
+  Import took 0.038308 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.004262 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.62 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Warning: Annotation not found!
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEditor.ProBuilder.EditorUtility:SetGizmoIconEnabled (System.Type,bool) (at C:/Unity/Project/3rd_Character_Move 2020.3/Library/PackageCache/com.unity.probuilder@5.0.3/Editor/EditorCore/EditorUtility.cs:575)
+UnityEditor.ProBuilder.HierarchyListener:.cctor () (at C:/Unity/Project/3rd_Character_Move 2020.3/Library/PackageCache/com.unity.probuilder@5.0.3/Editor/EditorCore/HierarchyListener.cs:21)
+System.Runtime.CompilerServices.RuntimeHelpers:RunClassConstructor (System.RuntimeTypeHandle)
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadAttributes (System.Type[])
+
+[C:/Unity/Project/3rd_Character_Move 2020.3/Library/PackageCache/com.unity.probuilder@5.0.3/Editor/EditorCore/EditorUtility.cs line 575]
+
+Mono: successfully reloaded assembly
+- Completed reload, in  1.313 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 0.66 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2858 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 139.5 MB.
+System memory in use after: 139.3 MB.
+
+Unloading 19 unused Assets to reduce memory usage. Loaded Objects now: 3472.
+Total: 4.066600 ms (FindLiveObjects: 0.445600 ms CreateObjectMapping: 0.121400 ms MarkObjects: 3.231000 ms  DeleteObjects: 0.267400 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 409.205838 seconds.
+  path: Assets/Settings/UniversalRP-HighQuality.asset
+  artifactKey: Guid(19ba41d7c0026c3459d37c2fe90c55a0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Settings/UniversalRP-HighQuality.asset using Guid(19ba41d7c0026c3459d37c2fe90c55a0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '10f74887235c1e1acdbf4d46689617c7') in 0.070125 seconds
+  Import took 0.077055 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003000 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.64 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Warning: Annotation not found!
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEditor.ProBuilder.EditorUtility:SetGizmoIconEnabled (System.Type,bool) (at C:/Unity/Project/3rd_Character_Move 2020.3/Library/PackageCache/com.unity.probuilder@5.0.3/Editor/EditorCore/EditorUtility.cs:575)
+UnityEditor.ProBuilder.HierarchyListener:.cctor () (at C:/Unity/Project/3rd_Character_Move 2020.3/Library/PackageCache/com.unity.probuilder@5.0.3/Editor/EditorCore/HierarchyListener.cs:21)
+System.Runtime.CompilerServices.RuntimeHelpers:RunClassConstructor (System.RuntimeTypeHandle)
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadAttributes (System.Type[])
+
+[C:/Unity/Project/3rd_Character_Move 2020.3/Library/PackageCache/com.unity.probuilder@5.0.3/Editor/EditorCore/EditorUtility.cs line 575]
+
+Mono: successfully reloaded assembly
+- Completed reload, in  1.201 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 0.70 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2859 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 139.5 MB.
+System memory in use after: 139.4 MB.
+
+Unloading 19 unused Assets to reduce memory usage. Loaded Objects now: 3476.
+Total: 3.415600 ms (FindLiveObjects: 0.316400 ms CreateObjectMapping: 0.145300 ms MarkObjects: 2.701500 ms  DeleteObjects: 0.251200 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 486.119865 seconds.
+  path: Assets/MyAssets/Sound
+  artifactKey: Guid(c356ad36ebfb8ba4eba980858ad6060e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MyAssets/Sound using Guid(c356ad36ebfb8ba4eba980858ad6060e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4c09bcd5c04a469fa5f6af7f243470ee') in 0.039144 seconds
+  Import took 0.047149 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 57.890346 seconds.
+  path: Assets/MyAssets/Scripts/3rd_Character_Move/Test Scence
+  artifactKey: Guid(74a4114e25246734783082d8b392aaae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MyAssets/Scripts/3rd_Character_Move/Test Scence using Guid(74a4114e25246734783082d8b392aaae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6f9c5c0789bcdc707c2d0d051985dd18') in 0.031583 seconds
+  Import took 0.040342 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 12.581757 seconds.
+  path: Assets/MyAssets/Scripts/3rd_Character_Move/Test Scene
+  artifactKey: Guid(74a4114e25246734783082d8b392aaae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MyAssets/Scripts/3rd_Character_Move/Test Scene using Guid(74a4114e25246734783082d8b392aaae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'af573743103739ab45154fcc2a22e8a2') in 0.032248 seconds
+  Import took 0.040107 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.270493 seconds.
+  path: Assets/MyAssets/Scripts/3rd_Character_Move/3rd Camera.prefab
+  artifactKey: Guid(346eeb25df508744faf856106bffed65) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MyAssets/Scripts/3rd_Character_Move/3rd Camera.prefab using Guid(346eeb25df508744faf856106bffed65) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5ba0c43a3c5f04b8cce3bd886f9e4117') in 0.090388 seconds
+  Import took 0.097032 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 24.022667 seconds.
+  path: Assets/MyAssets/Scripts/3rd_Character_Move/Code/Yuko_Animator.cs
+  artifactKey: Guid(4d2b0fd7b32ff6e4e8aecb35a4f31b54) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MyAssets/Scripts/3rd_Character_Move/Code/Yuko_Animator.cs using Guid(4d2b0fd7b32ff6e4e8aecb35a4f31b54) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4aa65e87e1fac05560c7b2352d5a55ea') in 0.042272 seconds
+  Import took 0.048380 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 40.960552 seconds.
+  path: Assets/MyAssets/Scripts/3rd_Character_Move/Code/_3rd_Character_Move.cs
+  artifactKey: Guid(68001ffb2b5933e47bda8e9569256e12) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MyAssets/Scripts/3rd_Character_Move/Code/_3rd_Character_Move.cs using Guid(68001ffb2b5933e47bda8e9569256e12) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6b55ea8d718ac6763482cf2a31e356cd') in 0.037405 seconds
+  Import took 0.044141 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.004522 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 1.08 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Warning: Annotation not found!
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEditor.ProBuilder.EditorUtility:SetGizmoIconEnabled (System.Type,bool) (at C:/Unity/Project/3rd_Character_Move 2020.3/Library/PackageCache/com.unity.probuilder@5.0.3/Editor/EditorCore/EditorUtility.cs:575)
+UnityEditor.ProBuilder.HierarchyListener:.cctor () (at C:/Unity/Project/3rd_Character_Move 2020.3/Library/PackageCache/com.unity.probuilder@5.0.3/Editor/EditorCore/HierarchyListener.cs:21)
+System.Runtime.CompilerServices.RuntimeHelpers:RunClassConstructor (System.RuntimeTypeHandle)
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadAttributes (System.Type[])
+
+[C:/Unity/Project/3rd_Character_Move 2020.3/Library/PackageCache/com.unity.probuilder@5.0.3/Editor/EditorCore/EditorUtility.cs line 575]
+
+Mono: successfully reloaded assembly
+- Completed reload, in  1.515 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 0.67 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2857 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 139.5 MB.
+System memory in use after: 139.4 MB.
+
+Unloading 20 unused Assets to reduce memory usage. Loaded Objects now: 3478.
+Total: 4.129300 ms (FindLiveObjects: 0.328200 ms CreateObjectMapping: 0.131000 ms MarkObjects: 3.410000 ms  DeleteObjects: 0.258700 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003373 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.88 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Warning: Annotation not found!
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEditor.ProBuilder.EditorUtility:SetGizmoIconEnabled (System.Type,bool) (at C:/Unity/Project/3rd_Character_Move 2020.3/Library/PackageCache/com.unity.probuilder@5.0.3/Editor/EditorCore/EditorUtility.cs:575)
+UnityEditor.ProBuilder.HierarchyListener:.cctor () (at C:/Unity/Project/3rd_Character_Move 2020.3/Library/PackageCache/com.unity.probuilder@5.0.3/Editor/EditorCore/HierarchyListener.cs:21)
+System.Runtime.CompilerServices.RuntimeHelpers:RunClassConstructor (System.RuntimeTypeHandle)
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadAttributes (System.Type[])
+
+[C:/Unity/Project/3rd_Character_Move 2020.3/Library/PackageCache/com.unity.probuilder@5.0.3/Editor/EditorCore/EditorUtility.cs line 575]
+
+Mono: successfully reloaded assembly
+- Completed reload, in  1.246 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 0.79 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2857 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 139.6 MB.
+System memory in use after: 139.4 MB.
+
+Unloading 19 unused Assets to reduce memory usage. Loaded Objects now: 3481.
+Total: 3.200100 ms (FindLiveObjects: 0.288500 ms CreateObjectMapping: 0.129000 ms MarkObjects: 2.577700 ms  DeleteObjects: 0.203600 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 376.359284 seconds.
+  path: Assets/MyAssets/Scripts/3rd_Character_Move/Code/_3rd_Character_Move.cs
+  artifactKey: Guid(68001ffb2b5933e47bda8e9569256e12) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MyAssets/Scripts/3rd_Character_Move/Code/_3rd_Character_Move.cs using Guid(68001ffb2b5933e47bda8e9569256e12) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '559908ed050fb276ff401621adb4784f') in 0.035998 seconds
+  Import took 0.043471 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 33.992027 seconds.
+  path: Assets/MyAssets/Character/Yuko/Animation/Yuko.controller
+  artifactKey: Guid(741f9f7c6252a7f4c87338b8c5b0d267) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MyAssets/Character/Yuko/Animation/Yuko.controller using Guid(741f9f7c6252a7f4c87338b8c5b0d267) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a4f793c9a513d929a1b3be4807e827dd') in 0.176819 seconds
+  Import took 0.185347 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 17.365046 seconds.
+  path: Assets/MyAssets/Character/Yuko/Animation/TopToGround.anim
+  artifactKey: Guid(f176a29b3093f1247bd0d76ec05e713a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MyAssets/Character/Yuko/Animation/TopToGround.anim using Guid(f176a29b3093f1247bd0d76ec05e713a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b2a8cd3c93eda9bcae5a9ed7a8bd021d') in 0.053813 seconds
+  Import took 0.061074 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.006617 seconds.
+  path: Assets/MyAssets/Character/Yuko/Animation/TopToGround.anim
+  artifactKey: Guid(f176a29b3093f1247bd0d76ec05e713a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MyAssets/Character/Yuko/Animation/TopToGround.anim using Guid(f176a29b3093f1247bd0d76ec05e713a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b2a8cd3c93eda9bcae5a9ed7a8bd021d') in 0.046140 seconds
+  Import took 0.054315 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 141.981094 seconds.
+  path: Assets/MyAssets/Character/Yuko/Yuko.prefab
+  artifactKey: Guid(31c5da9198802bc449d652b83a631171) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MyAssets/Character/Yuko/Yuko.prefab using Guid(31c5da9198802bc449d652b83a631171) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b3bd4cfde9f5fd0d2fcc1fa7969cdb56') in 1.490895 seconds
+  Import took 1.499392 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 52.524731 seconds.
+  path: Assets/MyAssets/Character/Yuko/Yuko_win_humanoid.prefab
+  artifactKey: Guid(d1c63d7e26822714e89fb5d3094712d4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MyAssets/Character/Yuko/Yuko_win_humanoid.prefab using Guid(d1c63d7e26822714e89fb5d3094712d4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0c88fea25dc24d02fada825fe04199d7') in 0.130231 seconds
+  Import took 0.139481 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 83.023565 seconds.
+  path: Assets/MyAssets/Character/Yuko/Animation/JumpToTop.anim
+  artifactKey: Guid(18d91472037dba4448de8d0dd0082289) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MyAssets/Character/Yuko/Animation/JumpToTop.anim using Guid(18d91472037dba4448de8d0dd0082289) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f3e328470ebd264c0c89e32b3c806034') in 0.055355 seconds
+  Import took 0.062285 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.007151 seconds.
+  path: Assets/MyAssets/Character/Yuko/Animation/JumpToTop.anim
+  artifactKey: Guid(18d91472037dba4448de8d0dd0082289) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MyAssets/Character/Yuko/Animation/JumpToTop.anim using Guid(18d91472037dba4448de8d0dd0082289) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f3e328470ebd264c0c89e32b3c806034') in 0.048177 seconds
+  Import took 0.054741 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 74.217379 seconds.
+  path: Assets/UnityChan/Models
+  artifactKey: Guid(559243757fb3ebd4a912eb5ebdb5a31f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UnityChan/Models using Guid(559243757fb3ebd4a912eb5ebdb5a31f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'eaaf566fdaea83c18d708d61072dc29f') in 0.035346 seconds
+  Import took 0.043695 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.028861 seconds.
+  path: Assets/UnityChan/Models
+  artifactKey: Guid(559243757fb3ebd4a912eb5ebdb5a31f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UnityChan/Models using Guid(559243757fb3ebd4a912eb5ebdb5a31f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'eaaf566fdaea83c18d708d61072dc29f') in 0.033592 seconds
+  Import took 0.040279 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.651398 seconds.
+  path: Assets/UnityChan/SD_Kohaku_chanz
+  artifactKey: Guid(67566b1fb6db905458b9cf2e053360b3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UnityChan/SD_Kohaku_chanz using Guid(67566b1fb6db905458b9cf2e053360b3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cda0d5d9ead99b7f8f739940da01e328') in 0.035006 seconds
+  Import took 0.043632 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.028364 seconds.
+  path: Assets/UnityChan/SD_Kohaku_chanz
+  artifactKey: Guid(67566b1fb6db905458b9cf2e053360b3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UnityChan/SD_Kohaku_chanz using Guid(67566b1fb6db905458b9cf2e053360b3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cda0d5d9ead99b7f8f739940da01e328') in 0.032821 seconds
+  Import took 0.039047 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.181193 seconds.
+  path: Assets/UnityChan/SD_Kohaku_chanz/Models
+  artifactKey: Guid(406a48e123950904e950ee0834c169a3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UnityChan/SD_Kohaku_chanz/Models using Guid(406a48e123950904e950ee0834c169a3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '01161092879d3cf3b1ab755fd8150bc2') in 0.031035 seconds
+  Import took 0.039587 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 15.953273 seconds.
+  path: Assets/UnityChan/Models/UnityChanShader
+  artifactKey: Guid(c66741efd3177694097a71089f862f74) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UnityChan/Models/UnityChanShader using Guid(c66741efd3177694097a71089f862f74) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '08b94c66dfc11c8166b54a9a507bd5be') in 0.035179 seconds
+  Import took 0.043287 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.012566 seconds.
+  path: Assets/UnityChan/Models/UnityChanShader
+  artifactKey: Guid(c66741efd3177694097a71089f862f74) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UnityChan/Models/UnityChanShader using Guid(c66741efd3177694097a71089f862f74) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '08b94c66dfc11c8166b54a9a507bd5be') in 0.032245 seconds
+  Import took 0.038624 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.925799 seconds.
+  path: Assets/UnityChan/Models/UnityChanShader/Shader
+  artifactKey: Guid(e5f4979e7944d9d48aa62d1c31e3529c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UnityChan/Models/UnityChanShader/Shader using Guid(e5f4979e7944d9d48aa62d1c31e3529c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '97fdea995d4c822128b895e95c3c1854') in 0.032123 seconds
+  Import took 0.042493 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.169224 seconds.
+  path: Assets/UnityChan/Models/UnityChanShader/Shader/Unitychan_chara_eye.shader
+  artifactKey: Guid(abaf2020b803b6847b5c081ed22c05c5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UnityChan/Models/UnityChanShader/Shader/Unitychan_chara_eye.shader using Guid(abaf2020b803b6847b5c081ed22c05c5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1b8f348ba9addb28919699addac89183') in 0.036395 seconds
+  Import took 0.042356 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.034132 seconds.
+  path: Assets/UnityChan/Models/UnityChanShader/Shader/Unitychan_chara_eye.shader
+  artifactKey: Guid(abaf2020b803b6847b5c081ed22c05c5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UnityChan/Models/UnityChanShader/Shader/Unitychan_chara_eye.shader using Guid(abaf2020b803b6847b5c081ed22c05c5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1b8f348ba9addb28919699addac89183') in 0.034196 seconds
+  Import took 0.041149 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.749809 seconds.
+  path: Assets/UnityChan/Models/UnityChanShader/Shader/Unitychan_chara_akarami_blend.shader
+  artifactKey: Guid(0298b868476735f41857e9ba8f0d4cd1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UnityChan/Models/UnityChanShader/Shader/Unitychan_chara_akarami_blend.shader using Guid(0298b868476735f41857e9ba8f0d4cd1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cec424fb5e595d70531343af45a79ea5') in 0.034619 seconds
+  Import took 0.042406 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.013882 seconds.
+  path: Assets/UnityChan/Models/UnityChanShader/Shader/Unitychan_chara_akarami_blend.shader
+  artifactKey: Guid(0298b868476735f41857e9ba8f0d4cd1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UnityChan/Models/UnityChanShader/Shader/Unitychan_chara_akarami_blend.shader using Guid(0298b868476735f41857e9ba8f0d4cd1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cec424fb5e595d70531343af45a79ea5') in 0.031183 seconds
+  Import took 0.039643 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.366407 seconds.
+  path: Assets/UnityChan/Models/UnityChanShader/Shader/readme.txt
+  artifactKey: Guid(5a2e870404fcb4620b9e791fbb837d74) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UnityChan/Models/UnityChanShader/Shader/readme.txt using Guid(5a2e870404fcb4620b9e791fbb837d74) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ebcdf5bc0e27d6d3def6fd064a49dfa8') in 0.044873 seconds
+  Import took 0.052793 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.716278 seconds.
+  path: Assets/UnityChan/Models/UnityChanShader/Shader/Unitychan_chara_eye_blend.shader
+  artifactKey: Guid(bf944057124b80b4e84496139e3b072c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UnityChan/Models/UnityChanShader/Shader/Unitychan_chara_eye_blend.shader using Guid(bf944057124b80b4e84496139e3b072c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2bce8f5e6efde80e7a088bf905a6ea4d') in 0.034490 seconds
+  Import took 0.040907 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.014225 seconds.
+  path: Assets/UnityChan/Models/UnityChanShader/Shader/Unitychan_chara_eye_blend.shader
+  artifactKey: Guid(bf944057124b80b4e84496139e3b072c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UnityChan/Models/UnityChanShader/Shader/Unitychan_chara_eye_blend.shader using Guid(bf944057124b80b4e84496139e3b072c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2bce8f5e6efde80e7a088bf905a6ea4d') in 0.032935 seconds
+  Import took 0.040498 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.034025 seconds.
+  path: Assets/UnityChan/Models/UnityChanShader/Shader/Unitychan_chara_eyelash_blend.shader
+  artifactKey: Guid(9627902a73805264c818754ecb22c8f9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UnityChan/Models/UnityChanShader/Shader/Unitychan_chara_eyelash_blend.shader using Guid(9627902a73805264c818754ecb22c8f9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4c42855b5a5d442ca06632f49c06fb78') in 0.034047 seconds
+  Import took 0.039867 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.095303 seconds.
+  path: Assets/UnityChan/Models/UnityChanShader/Shader/Unitychan_chara_fuku.shader
+  artifactKey: Guid(00262b50562beb14cbab9b52bced4f9f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UnityChan/Models/UnityChanShader/Shader/Unitychan_chara_fuku.shader using Guid(00262b50562beb14cbab9b52bced4f9f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '37b494c37c5be4a4a4959b086d85840f') in 0.032692 seconds
+  Import took 0.039091 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.031936 seconds.
+  path: Assets/UnityChan/Models/UnityChanShader/Shader/Unitychan_chara_fuku.shader
+  artifactKey: Guid(00262b50562beb14cbab9b52bced4f9f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UnityChan/Models/UnityChanShader/Shader/Unitychan_chara_fuku.shader using Guid(00262b50562beb14cbab9b52bced4f9f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '37b494c37c5be4a4a4959b086d85840f') in 0.033367 seconds
+  Import took 0.039329 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.089457 seconds.
+  path: Assets/UnityChan/Models/UnityChanShader/Shader/Unitychan_chara_fuku_ds.shader
+  artifactKey: Guid(96d05de60c5f7474491f9f94568cf623) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UnityChan/Models/UnityChanShader/Shader/Unitychan_chara_fuku_ds.shader using Guid(96d05de60c5f7474491f9f94568cf623) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5ad1c88ad799ef65c18b684613103c0a') in 0.034629 seconds
+  Import took 0.041684 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.090143 seconds.
+  path: Assets/UnityChan/Models/UnityChanShader/Shader/Unitychan_chara_hada.shader
+  artifactKey: Guid(b35a2abbdd5b15d4ca40103088758eac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UnityChan/Models/UnityChanShader/Shader/Unitychan_chara_hada.shader using Guid(b35a2abbdd5b15d4ca40103088758eac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '31bbf40a1c05c59f54bf17e8fba9d6ea') in 0.035600 seconds
+  Import took 0.041891 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.089867 seconds.
+  path: Assets/UnityChan/Models/UnityChanShader/Shader/Unitychan_chara_hada_blend.shader
+  artifactKey: Guid(7a95784c68f03494d8c7911e15fab82a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UnityChan/Models/UnityChanShader/Shader/Unitychan_chara_hada_blend.shader using Guid(7a95784c68f03494d8c7911e15fab82a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0d1c5a3d7997b3c2fe92c3a23ebafafc') in 0.035880 seconds
+  Import took 0.043924 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.208866 seconds.
+  path: Assets/UnityChan/Models/UnityChanShader/Shader/Unitychan_chara_hair_ds.shader
+  artifactKey: Guid(235ca6f7bbc0ead4990f386a7ec24292) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UnityChan/Models/UnityChanShader/Shader/Unitychan_chara_hair_ds.shader using Guid(235ca6f7bbc0ead4990f386a7ec24292) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8d762fe05148afbfaeedb0500a766947') in 0.036120 seconds
+  Import took 0.043119 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.330321 seconds.
+  path: Assets/UnityChan/SD_Kohaku_chanz/Prefabs/Yuko_win_humanoid.prefab
+  artifactKey: Guid(2774cf9769544e141996fef21c3e26e3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UnityChan/SD_Kohaku_chanz/Prefabs/Yuko_win_humanoid.prefab using Guid(2774cf9769544e141996fef21c3e26e3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1b5da961bb957fc552bbd82ae499d6cb') in 0.127361 seconds
+  Import took 0.137701 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.610235 seconds.
+  path: Assets/UnityChan/SD_Kohaku_chanz/Prefabs/Yuko_sum_humanoid.prefab
+  artifactKey: Guid(441d3767f050bfc42987d96a4520af07) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UnityChan/SD_Kohaku_chanz/Prefabs/Yuko_sum_humanoid.prefab using Guid(441d3767f050bfc42987d96a4520af07) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cfaec0f2472392d3d37d04c4160d022a') in 0.141742 seconds
+  Import took 0.154511 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.313397 seconds.
+  path: Assets/UnityChan/SD_Kohaku_chanz/Prefabs/Utc_win_humanoid.prefab
+  artifactKey: Guid(7e0f7737a40453040a6beb5f9d8a599b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UnityChan/SD_Kohaku_chanz/Prefabs/Utc_win_humanoid.prefab using Guid(7e0f7737a40453040a6beb5f9d8a599b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '836c3485dc1ff24ba814d5bbe903081d') in 0.103661 seconds
+  Import took 0.112675 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.178508 seconds.
+  path: Assets/UnityChan/SD_Kohaku_chanz/Prefabs/Utc_sum_humanoid.prefab
+  artifactKey: Guid(3886001691da2124688a8816d352423a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UnityChan/SD_Kohaku_chanz/Prefabs/Utc_sum_humanoid.prefab using Guid(3886001691da2124688a8816d352423a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5d932809f97b0bbaba0705a9cbb0e5ae') in 0.102095 seconds
+  Import took 0.111862 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.002928 seconds.
+  path: Assets/UnityChan/SD_Kohaku_chanz/Prefabs/Utc_sum_humanoid.prefab
+  artifactKey: Guid(3886001691da2124688a8816d352423a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UnityChan/SD_Kohaku_chanz/Prefabs/Utc_sum_humanoid.prefab using Guid(3886001691da2124688a8816d352423a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5d932809f97b0bbaba0705a9cbb0e5ae') in 0.097853 seconds
+  Import took 0.109207 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.140124 seconds.
+  path: Assets/UnityChan/SD_Kohaku_chanz/Prefabs/Misaki_win_humanoid.prefab
+  artifactKey: Guid(ada6fe60e74b3c84f852f19a76d76872) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UnityChan/SD_Kohaku_chanz/Prefabs/Misaki_win_humanoid.prefab using Guid(ada6fe60e74b3c84f852f19a76d76872) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ad65302da85e56745531b38f28af975a') in 0.129279 seconds
+  Import took 0.140343 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.824489 seconds.
+  path: Assets/UnityChan/SD_Kohaku_chanz/Prefabs/Misaki_sum_humanoid.prefab
+  artifactKey: Guid(1b116d1d98225c449952c7fe4df59bcc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UnityChan/SD_Kohaku_chanz/Prefabs/Misaki_sum_humanoid.prefab using Guid(1b116d1d98225c449952c7fe4df59bcc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4f6e9cf113d5fbb4e3c24fb5cb25feee') in 0.104485 seconds
+  Import took 0.116467 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 280.846507 seconds.
+  path: Assets/UnityChan/SD_Kohaku_chanz/Models/Yuko_win_humanoid.fbx
+  artifactKey: Guid(346b04ba3952add4f9b34ca9a0dbc322) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UnityChan/SD_Kohaku_chanz/Models/Yuko_win_humanoid.fbx using Guid(346b04ba3952add4f9b34ca9a0dbc322) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '206e44d1f356216aed10acfc60f2e088') in 0.365187 seconds
+  Import took 0.374727 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 23.698910 seconds.
+  path: Assets/UnityChan/SD_Kohaku_chanz/Models/Yuko_win_humanoid.fbx
+  artifactKey: Guid(346b04ba3952add4f9b34ca9a0dbc322) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UnityChan/SD_Kohaku_chanz/Models/Yuko_win_humanoid.fbx using Guid(346b04ba3952add4f9b34ca9a0dbc322) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f124d9cc5c79cdb331bb0f613dbfbc3e') in 0.122623 seconds
+  Import took 0.130867 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 349.830973 seconds.
+  path: Assets/UnityChan/SD_Kohaku_chanz/Animations/JumpToTop.anim
+  artifactKey: Guid(da545527b7e1b5444911ca843ef1c3af) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UnityChan/SD_Kohaku_chanz/Animations/JumpToTop.anim using Guid(da545527b7e1b5444911ca843ef1c3af) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1c39cea84af5627be83b77dafd892375') in 0.040127 seconds
+  Import took 0.050671 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 18.592594 seconds.
+  path: Assets/UnityChan/SD_Kohaku_chanz/Animations/Running@loop.anim
+  artifactKey: Guid(7d8a63ff9eebf394a8fdaf1485a57647) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UnityChan/SD_Kohaku_chanz/Animations/Running@loop.anim using Guid(7d8a63ff9eebf394a8fdaf1485a57647) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '05765eae494cdf4b63fefcf7d28f6867') in 0.040741 seconds
+  Import took 0.049365 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.433898 seconds.
+  path: Assets/UnityChan/SD_Kohaku_chanz/Animations/Standing@loop.anim
+  artifactKey: Guid(c45e9be109287c7448637c89b6eebb41) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UnityChan/SD_Kohaku_chanz/Animations/Standing@loop.anim using Guid(c45e9be109287c7448637c89b6eebb41) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '538ddc8d0b7212eb6f47203c9bb7e778') in 0.037446 seconds
+  Import took 0.044443 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 13.591993 seconds.
+  path: Assets/UnityChan/SD_Kohaku_chanz/Animations/JumpToTop1.anim
+  artifactKey: Guid(da545527b7e1b5444911ca843ef1c3af) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UnityChan/SD_Kohaku_chanz/Animations/JumpToTop1.anim using Guid(da545527b7e1b5444911ca843ef1c3af) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '67e4f64082bf6719ab70e40c3075d656') in 0.042441 seconds
+  Import took 0.049883 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.462109 seconds.
+  path: Assets/UnityChan/SD_Kohaku_chanz/Animations/Running@loop1.anim
+  artifactKey: Guid(7d8a63ff9eebf394a8fdaf1485a57647) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UnityChan/SD_Kohaku_chanz/Animations/Running@loop1.anim using Guid(7d8a63ff9eebf394a8fdaf1485a57647) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6f34f8592d75fc98c519aaf410e45bb9') in 0.039940 seconds
+  Import took 0.047720 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 6.302772 seconds.
+  path: Assets/UnityChan/SD_Kohaku_chanz/Animations/Standing@loop1.anim
+  artifactKey: Guid(c45e9be109287c7448637c89b6eebb41) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UnityChan/SD_Kohaku_chanz/Animations/Standing@loop1.anim using Guid(c45e9be109287c7448637c89b6eebb41) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2e2216702180f91576f6a6007d3ff992') in 0.039670 seconds
+  Import took 0.046675 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 9.547802 seconds.
+  path: Assets/UnityChan/SD_Kohaku_chanz/Animations/TopOfJump.anim
+  artifactKey: Guid(f2e66489c19ffcb4695176212824acab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UnityChan/SD_Kohaku_chanz/Animations/TopOfJump.anim using Guid(f2e66489c19ffcb4695176212824acab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8a60247596aeadb3af7d8db199291c68') in 0.037259 seconds
+  Import took 0.044642 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.648986 seconds.
+  path: Assets/UnityChan/SD_Kohaku_chanz/Animations/TopOfJump1.anim
+  artifactKey: Guid(f2e66489c19ffcb4695176212824acab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UnityChan/SD_Kohaku_chanz/Animations/TopOfJump1.anim using Guid(f2e66489c19ffcb4695176212824acab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1e66c86b925fea0d119fc0984fe2379f') in 0.037568 seconds
+  Import took 0.045767 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.820467 seconds.
+  path: Assets/UnityChan/SD_Kohaku_chanz/Animations/TopToGround.anim
+  artifactKey: Guid(fabb0a297cee2a14b98e9bdd685183f4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UnityChan/SD_Kohaku_chanz/Animations/TopToGround.anim using Guid(fabb0a297cee2a14b98e9bdd685183f4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4a5b50311fc924663787d4dd4c2454cd') in 0.039071 seconds
+  Import took 0.045369 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.208638 seconds.
+  path: Assets/UnityChan/SD_Kohaku_chanz/Animations/TopToGround1.anim
+  artifactKey: Guid(fabb0a297cee2a14b98e9bdd685183f4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UnityChan/SD_Kohaku_chanz/Animations/TopToGround1.anim using Guid(fabb0a297cee2a14b98e9bdd685183f4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ae215c81a2a3bd587f08517b0cae8bdd') in 0.039713 seconds
+  Import took 0.046910 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 11.398086 seconds.
+  path: Assets/UnityChan/SD_Kohaku_chanz/Animations/Walking@loop.anim
+  artifactKey: Guid(0afd8a9fa81d6f041a5e742b09972055) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UnityChan/SD_Kohaku_chanz/Animations/Walking@loop.anim using Guid(0afd8a9fa81d6f041a5e742b09972055) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e1297638350e3bde4ec385a64b9b48e4') in 0.042189 seconds
+  Import took 0.050296 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.330408 seconds.
+  path: Assets/UnityChan/SD_Kohaku_chanz/Animations/Walking@loop1.anim
+  artifactKey: Guid(0afd8a9fa81d6f041a5e742b09972055) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UnityChan/SD_Kohaku_chanz/Animations/Walking@loop1.anim using Guid(0afd8a9fa81d6f041a5e742b09972055) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2f4c8f0333317353dfff5e0843a31a55') in 0.042588 seconds
+  Import took 0.050771 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 93.941222 seconds.
+  path: Assets/MyAssets/Character/Yuko/Animation/Yuko1.controller
+  artifactKey: Guid(d498c09a24f4b154a9055767dd68ea1b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MyAssets/Character/Yuko/Animation/Yuko1.controller using Guid(d498c09a24f4b154a9055767dd68ea1b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '311d7643322d070a0eb557d62ec11832') in 0.034429 seconds
+  Import took 0.045386 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 151.002887 seconds.
+  path: Assets/MyAssets/Character/Yuko/Animation/Test.controller
+  artifactKey: Guid(d05a09ad2d2134347bd2205efcc2a690) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MyAssets/Character/Yuko/Animation/Test.controller using Guid(d05a09ad2d2134347bd2205efcc2a690) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '190f8714f96c8de608faa88b27a0f2a6') in 0.034041 seconds
+  Import took 0.044032 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 99.249731 seconds.
+  path: Assets/UnityChan/SD_Kohaku_chanz/Animations/SD_Uniform_KohakuChanz_motion_humaoid.fbx
+  artifactKey: Guid(dc7b6656cda8bfa4c84b8a51105de829) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UnityChan/SD_Kohaku_chanz/Animations/SD_Uniform_KohakuChanz_motion_humaoid.fbx using Guid(dc7b6656cda8bfa4c84b8a51105de829) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a1a110ce268e3c858ebe2a695638dd1c') in 0.048519 seconds
+  Import took 0.057765 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002963 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.86 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Warning: Annotation not found!
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEditor.ProBuilder.EditorUtility:SetGizmoIconEnabled (System.Type,bool) (at C:/Unity/Project/3rd_Character_Move 2020.3/Library/PackageCache/com.unity.probuilder@5.0.3/Editor/EditorCore/EditorUtility.cs:575)
+UnityEditor.ProBuilder.HierarchyListener:.cctor () (at C:/Unity/Project/3rd_Character_Move 2020.3/Library/PackageCache/com.unity.probuilder@5.0.3/Editor/EditorCore/HierarchyListener.cs:21)
+System.Runtime.CompilerServices.RuntimeHelpers:RunClassConstructor (System.RuntimeTypeHandle)
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadAttributes (System.Type[])
+
+[C:/Unity/Project/3rd_Character_Move 2020.3/Library/PackageCache/com.unity.probuilder@5.0.3/Editor/EditorCore/EditorUtility.cs line 575]
+
+Mono: successfully reloaded assembly
+- Completed reload, in  1.243 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 0.68 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2857 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 159.0 MB.
+System memory in use after: 158.8 MB.
+
+Unloading 19 unused Assets to reduce memory usage. Loaded Objects now: 3533.
+Total: 4.353100 ms (FindLiveObjects: 0.442800 ms CreateObjectMapping: 0.141300 ms MarkObjects: 3.497000 ms  DeleteObjects: 0.270700 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 839.066174 seconds.
+  path: Assets/MyAssets/Character/Yuko/Yuko.prefab
+  artifactKey: Guid(31c5da9198802bc449d652b83a631171) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MyAssets/Character/Yuko/Yuko.prefab using Guid(31c5da9198802bc449d652b83a631171) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b6ebabe085d62511dc85fa4dd9851825') in 0.359455 seconds
+  Import took 0.367754 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 9.971646 seconds.
+  path: Assets/MyAssets/Character/Yuko/Yuko.prefab
+  artifactKey: Guid(31c5da9198802bc449d652b83a631171) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MyAssets/Character/Yuko/Yuko.prefab using Guid(31c5da9198802bc449d652b83a631171) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '258b42f8602b5317bce7bf3b139cac60') in 0.155117 seconds
+  Import took 0.164492 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.004309 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.73 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Warning: Annotation not found!
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEditor.ProBuilder.EditorUtility:SetGizmoIconEnabled (System.Type,bool) (at C:/Unity/Project/3rd_Character_Move 2020.3/Library/PackageCache/com.unity.probuilder@5.0.3/Editor/EditorCore/EditorUtility.cs:575)
+UnityEditor.ProBuilder.HierarchyListener:.cctor () (at C:/Unity/Project/3rd_Character_Move 2020.3/Library/PackageCache/com.unity.probuilder@5.0.3/Editor/EditorCore/HierarchyListener.cs:21)
+System.Runtime.CompilerServices.RuntimeHelpers:RunClassConstructor (System.RuntimeTypeHandle)
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadAttributes (System.Type[])
+
+[C:/Unity/Project/3rd_Character_Move 2020.3/Library/PackageCache/com.unity.probuilder@5.0.3/Editor/EditorCore/EditorUtility.cs line 575]
+
+Mono: successfully reloaded assembly
+- Completed reload, in  1.273 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 1.04 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2857 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 159.1 MB.
+System memory in use after: 159.0 MB.
+
+Unloading 19 unused Assets to reduce memory usage. Loaded Objects now: 3572.
+Total: 4.402800 ms (FindLiveObjects: 0.369800 ms CreateObjectMapping: 0.185800 ms MarkObjects: 3.605600 ms  DeleteObjects: 0.239900 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003010 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.76 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Warning: Annotation not found!
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEditor.ProBuilder.EditorUtility:SetGizmoIconEnabled (System.Type,bool) (at C:/Unity/Project/3rd_Character_Move 2020.3/Library/PackageCache/com.unity.probuilder@5.0.3/Editor/EditorCore/EditorUtility.cs:575)
+UnityEditor.ProBuilder.HierarchyListener:.cctor () (at C:/Unity/Project/3rd_Character_Move 2020.3/Library/PackageCache/com.unity.probuilder@5.0.3/Editor/EditorCore/HierarchyListener.cs:21)
+System.Runtime.CompilerServices.RuntimeHelpers:RunClassConstructor (System.RuntimeTypeHandle)
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadAttributes (System.Type[])
+
+[C:/Unity/Project/3rd_Character_Move 2020.3/Library/PackageCache/com.unity.probuilder@5.0.3/Editor/EditorCore/EditorUtility.cs line 575]
+
+Mono: successfully reloaded assembly
+- Completed reload, in  1.168 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 0.67 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2857 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 159.1 MB.
+System memory in use after: 159.0 MB.
+
+Unloading 19 unused Assets to reduce memory usage. Loaded Objects now: 3575.
+Total: 3.787000 ms (FindLiveObjects: 0.533200 ms CreateObjectMapping: 0.142700 ms MarkObjects: 2.834200 ms  DeleteObjects: 0.275900 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003284 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.72 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Warning: Annotation not found!
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEditor.ProBuilder.EditorUtility:SetGizmoIconEnabled (System.Type,bool) (at C:/Unity/Project/3rd_Character_Move 2020.3/Library/PackageCache/com.unity.probuilder@5.0.3/Editor/EditorCore/EditorUtility.cs:575)
+UnityEditor.ProBuilder.HierarchyListener:.cctor () (at C:/Unity/Project/3rd_Character_Move 2020.3/Library/PackageCache/com.unity.probuilder@5.0.3/Editor/EditorCore/HierarchyListener.cs:21)
+System.Runtime.CompilerServices.RuntimeHelpers:RunClassConstructor (System.RuntimeTypeHandle)
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadAttributes (System.Type[])
+
+[C:/Unity/Project/3rd_Character_Move 2020.3/Library/PackageCache/com.unity.probuilder@5.0.3/Editor/EditorCore/EditorUtility.cs line 575]
+
+Mono: successfully reloaded assembly
+- Completed reload, in  1.181 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 0.72 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2857 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 159.1 MB.
+System memory in use after: 159.0 MB.
+
+Unloading 19 unused Assets to reduce memory usage. Loaded Objects now: 3578.
+Total: 3.538100 ms (FindLiveObjects: 0.321300 ms CreateObjectMapping: 0.182000 ms MarkObjects: 2.716000 ms  DeleteObjects: 0.317800 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003032 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.67 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Warning: Annotation not found!
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEditor.ProBuilder.EditorUtility:SetGizmoIconEnabled (System.Type,bool) (at C:/Unity/Project/3rd_Character_Move 2020.3/Library/PackageCache/com.unity.probuilder@5.0.3/Editor/EditorCore/EditorUtility.cs:575)
+UnityEditor.ProBuilder.HierarchyListener:.cctor () (at C:/Unity/Project/3rd_Character_Move 2020.3/Library/PackageCache/com.unity.probuilder@5.0.3/Editor/EditorCore/HierarchyListener.cs:21)
+System.Runtime.CompilerServices.RuntimeHelpers:RunClassConstructor (System.RuntimeTypeHandle)
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadAttributes (System.Type[])
+
+[C:/Unity/Project/3rd_Character_Move 2020.3/Library/PackageCache/com.unity.probuilder@5.0.3/Editor/EditorCore/EditorUtility.cs line 575]
+
+Mono: successfully reloaded assembly
+- Completed reload, in  1.247 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 0.70 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2857 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 159.1 MB.
+System memory in use after: 159.0 MB.
+
+Unloading 19 unused Assets to reduce memory usage. Loaded Objects now: 3581.
+Total: 3.630200 ms (FindLiveObjects: 0.332500 ms CreateObjectMapping: 0.128600 ms MarkObjects: 2.855500 ms  DeleteObjects: 0.312400 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003696 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.61 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Warning: Annotation not found!
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEditor.ProBuilder.EditorUtility:SetGizmoIconEnabled (System.Type,bool) (at C:/Unity/Project/3rd_Character_Move 2020.3/Library/PackageCache/com.unity.probuilder@5.0.3/Editor/EditorCore/EditorUtility.cs:575)
+UnityEditor.ProBuilder.HierarchyListener:.cctor () (at C:/Unity/Project/3rd_Character_Move 2020.3/Library/PackageCache/com.unity.probuilder@5.0.3/Editor/EditorCore/HierarchyListener.cs:21)
+System.Runtime.CompilerServices.RuntimeHelpers:RunClassConstructor (System.RuntimeTypeHandle)
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadAttributes (System.Type[])
+
+[C:/Unity/Project/3rd_Character_Move 2020.3/Library/PackageCache/com.unity.probuilder@5.0.3/Editor/EditorCore/EditorUtility.cs line 575]
+
+Mono: successfully reloaded assembly
+- Completed reload, in  1.213 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 0.88 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2857 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 159.1 MB.
+System memory in use after: 159.0 MB.
+
+Unloading 19 unused Assets to reduce memory usage. Loaded Objects now: 3584.
+Total: 4.556800 ms (FindLiveObjects: 0.408400 ms CreateObjectMapping: 0.221200 ms MarkObjects: 3.635400 ms  DeleteObjects: 0.290500 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003309 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.77 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Warning: Annotation not found!
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEditor.ProBuilder.EditorUtility:SetGizmoIconEnabled (System.Type,bool) (at C:/Unity/Project/3rd_Character_Move 2020.3/Library/PackageCache/com.unity.probuilder@5.0.3/Editor/EditorCore/EditorUtility.cs:575)
+UnityEditor.ProBuilder.HierarchyListener:.cctor () (at C:/Unity/Project/3rd_Character_Move 2020.3/Library/PackageCache/com.unity.probuilder@5.0.3/Editor/EditorCore/HierarchyListener.cs:21)
+System.Runtime.CompilerServices.RuntimeHelpers:RunClassConstructor (System.RuntimeTypeHandle)
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadAttributes (System.Type[])
+
+[C:/Unity/Project/3rd_Character_Move 2020.3/Library/PackageCache/com.unity.probuilder@5.0.3/Editor/EditorCore/EditorUtility.cs line 575]
+
+Mono: successfully reloaded assembly
+- Completed reload, in  1.280 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 0.77 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2857 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 159.2 MB.
+System memory in use after: 159.0 MB.
+
+Unloading 19 unused Assets to reduce memory usage. Loaded Objects now: 3587.
+Total: 3.633700 ms (FindLiveObjects: 0.319900 ms CreateObjectMapping: 0.205500 ms MarkObjects: 2.853900 ms  DeleteObjects: 0.253400 ms)
+

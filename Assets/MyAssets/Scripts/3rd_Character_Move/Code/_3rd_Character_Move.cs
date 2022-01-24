@@ -240,6 +240,7 @@ public class _3rd_Character_Move : MonoBehaviour {
     #endregion =============================================================================================================== 變數宣告
 
     #region 函式 ===============================================================================================================
+    //初始化
     private void Start() {
         drag = 60f/speed_to_zero * 0.017f;
         addspeed = drag + 60f/speed_to_max * 0.017f;
@@ -252,7 +253,7 @@ public class _3rd_Character_Move : MonoBehaviour {
         spherecast_dis = capsule_collider.radius*1.1f;
     }
 
-    //固定迴圈
+    //程式架構
     private void FixedUpdate() {
         OnGround();
         Inputer();
@@ -381,6 +382,7 @@ public class _3rd_Character_Move : MonoBehaviour {
         }
     }
 
+    //繪製射線
     void OnDrawGizmos() {
         if (is_hit) {
             Gizmos.color = Color.red;
@@ -397,7 +399,7 @@ public class _3rd_Character_Move : MonoBehaviour {
         
     
     /// <summary>
-    /// 跳躍函式(給外部程式)
+    /// 跳躍函式(給Animation Event用)
     /// </summary>
     public void Jump() {
         jump = false;
@@ -406,17 +408,17 @@ public class _3rd_Character_Move : MonoBehaviour {
     }
 
     /// <summary>
-    /// 設定是否可以跳躍(給外部程式)
+    /// 設定是否可以跳躍(給Animation Event用)
     /// </summary>
     public void Set_Can_Move(int _switch) {
-        can_move = _switch > 0 ? true : false;
+        can_move = _switch > 0;
     }
 
     /// <summary>
-    /// 設定是否可以滯空(給外部程式)
+    /// 設定是否在滯空(給Animation Event用)
     /// </summary>
     public void Set_Stay_Air(int _switch) {
-        stay_air = _switch > 0 ? true : false;
+        stay_air = _switch > 0;
     }
     #endregion =============================================================================================================== 函式
 }

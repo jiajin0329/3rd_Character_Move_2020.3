@@ -6,6 +6,6 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/MyAssets/Scripts/3rd_Character_Move/3rd_Character_Move.unity
+    path: Assets/MyAssets/Scripts/3rd_Character_Move/Test Scene/3rd_Character_Move.unity
     guid: 02a2a23523ccc0641af4e83c9d8c36f3
   m_configObjects: {}
